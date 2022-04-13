@@ -1,0 +1,32 @@
+C:\gym\Scripts\python.exe D:/Projects/gdrl/notebooks/chapter_11/a3c.py
+el 00:00:27, ep 0526, ts 086514, ar 10 500.0±000.0, 100 403.3±118.3, ex 100 0.3±0.0, ev 475.9±053.5
+--> reached_goal_mean_reward ✓
+Training complete.
+Final evaluation score 487.30±34.10 in 174.52s training time, 29.42s wall-clock time.
+
+
+el 00:00:03, ep 0000, ts 000016, ar 10 016.0±000.0, 100 016.0±000.0, ex 100 0.5±0.0, ev 010.0±000.0
+el 00:00:33, ep 0561, ts 076224, ar 10 473.5±035.7, 100 349.6±133.1, ex 100 0.3±0.0, ev 443.3±103.2
+el 00:00:41, ep 0610, ts 096526, ar 10 205.0±229.4, 100 408.6±139.6, ex 100 0.2±0.1, ev 458.4±115.8
+--> reached_goal_mean_reward ✓
+Final evaluation score 500.00±0.00 in 257.77s training time, 42.24s wall-clock time.
+
+
+el 00:00:03, ep 0000, ts 000012, ar 10 012.0±000.0, 100 012.0±000.0, ex 100 0.2±0.0, ev 009.0±000.0
+el 00:00:29, ep 0456, ts 057290, ar 10 390.7±135.7, 100 314.0±143.2, ex 100 0.3±0.0, ev 478.2±054.6
+--> reached_goal_mean_reward ✓
+Final evaluation score 500.00±0.00 in 174.65s training time, 30.79s wall-clock time.
+
+
+el 00:00:02, ep 0000, ts 000015, ar 10 015.0±000.0, 100 015.0±000.0, ex 100 0.3±0.0, ev 011.0±000.0
+el 00:00:33, ep 0493, ts 066895, ar 10 428.3±112.0, 100 326.2±125.7, ex 100 0.3±0.0, ev 402.2±115.3
+el 00:00:45, ep 0568, ts 101326, ar 10 455.6±094.6, 100 432.4±107.1, ex 100 0.2±0.0, ev 489.1±041.1
+--> reached_goal_mean_reward ✓
+Final evaluation score 500.00±0.00 in 282.39s training time, 45.90s wall-clock time.
+
+
+el 00:00:03, ep 0000, ts 000019, ar 10 019.0±000.0, 100 019.0±000.0, ex 100 0.3±0.0, ev 009.0±000.0
+el 00:00:34, ep 0482, ts 066795, ar 10 495.7±013.6, 100 349.4±133.1, ex 100 0.3±0.0, ev 446.0±097.5
+el 00:00:38, ep 0514, ts 078341, ar 10 315.3±095.1, 100 391.3±110.4, ex 100 0.3±0.0, ev 476.3±054.0
+--> reached_goal_mean_reward ✓
+Final evaluation score 500.00±0.00 in 223.52s training time, 39.33s wall-clock time.

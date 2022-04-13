@@ -1,0 +1,33 @@
+C:\gym\Scripts\python.exe D:/Projects/gdrl/notebooks/chapter_11/a3c.py
+el 00:00:03, ep 0000, ts 000015, ar 10 015.0±000.0, 100 015.0±000.0, ex 100 0.7±0.0, ev 022.0±000.0
+el 00:00:33, ep 0517, ts 083659, ar 10 308.0±218.2, 100 391.0±126.2, ex 100 0.3±0.1, ev 443.3±111.1
+el 00:00:37, ep 0536, ts 094533, ar 10 493.2±013.0, 100 441.4±089.6, ex 100 0.3±0.0, ev 475.7±059.5
+--> reached_goal_mean_reward ✓
+Final evaluation score 492.19±23.72 in 236.34s training time, 39.06s wall-clock time.
+
+el 00:00:03, ep 0000, ts 000016, ar 10 016.0±000.0, 100 016.0±000.0, ex 100 0.5±0.0, ev 010.0±000.0
+el 00:00:33, ep 0729, ts 064998, ar 10 130.2±096.6, 100 190.0±103.5, ex 100 0.3±0.1, ev 258.4±128.1
+el 00:00:58, ep 0927, ts 145346, ar 10 489.9±031.9, 100 456.2±094.0, ex 100 0.2±0.0, ev 477.6±069.5
+--> reached_goal_mean_reward ✓
+Final evaluation score 500.00±0.00 in 378.99s training time, 59.54s wall-clock time.
+
+
+el 00:00:03, ep 0000, ts 000012, ar 10 012.0±000.0, 100 012.0±000.0, ex 100 0.2±0.0, ev 009.0±000.0
+el 00:00:33, ep 0502, ts 064863, ar 10 421.3±098.2, 100 330.8±130.1, ex 100 0.3±0.0, ev 453.5±083.5
+el 00:00:44, ep 0567, ts 096581, ar 10 493.3±021.2, 100 449.5±093.5, ex 100 0.2±0.0, ev 485.7±049.9
+--> reached_goal_mean_reward ✓
+Final evaluation score 500.00±0.00 in 269.62s training time, 45.13s wall-clock time.
+
+
+el 00:00:02, ep 0000, ts 000015, ar 10 015.0±000.0, 100 015.0±000.0, ex 100 0.3±0.0, ev 011.0±000.0
+el 00:00:34, ep 0549, ts 075112, ar 10 482.3±050.6, 100 350.5±133.9, ex 100 0.3±0.0, ev 425.9±102.9
+el 00:00:48, ep 0648, ts 119104, ar 10 500.0±000.0, 100 444.9±105.4, ex 100 0.2±0.0, ev 475.2±069.5
+--> reached_goal_mean_reward ✓
+Final evaluation score 479.60±42.03 in 312.31s training time, 49.50s wall-clock time.
+
+
+el 00:00:03, ep 0000, ts 000019, ar 10 019.0±000.0, 100 019.0±000.0, ex 100 0.3±0.0, ev 009.0±000.0
+el 00:00:22, ep 0417, ts 034460, ar 10 218.1±131.2, 100 173.3±109.7, ex 100 0.3±0.0, ev 471.8±086.1
+--> reached_goal_mean_reward ✓
+Final evaluation score 470.14±71.22 in 114.07s training time, 23.47s wall-clock time.
+
